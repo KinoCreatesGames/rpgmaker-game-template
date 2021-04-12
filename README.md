@@ -13,6 +13,8 @@ Copies of your plugin can be found in the dist folder as well for looking at the
 
 Building
 > npm run build
+
+
 File Watching
 > npm run watch 
 
